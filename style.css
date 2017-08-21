@@ -52,3 +52,21 @@ font-family: 'Rubik', sans-serif;
 color: #DDE6EB;
 text-align: center;
 }
+
+label {
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+}
+
+.portfolio-pics {
+    margin: 10px;
+}
+
+.pic-names {
+    width: 75%;
+    text-align: center;
+    margin: 0;
+    font-size: 10px;
+    font-weight: bold;
+}
+
