@@ -1,0 +1,54 @@
+.navbar-brand {
+    font-family: 'Berkshire Swash', cursive;
+    background-color: #1C3795;
+    padding: 10px;
+}
+
+#navbarNavAltMarkup {
+    margin-left: 400px;
+}
+
+.header-style {
+    color: #B0B5C8;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+.header-style1 {
+    color: #1C3795;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+h2 {
+    font-family: 'Berkshire Swash', cursive;
+    color: #1C3795;
+}
+.float-md-left {
+    margin: 10px;
+    margin-left: -3px;
+}
+
+.about-me-text {
+    font-family: 'Rubik', sans-serif;
+}
+
+.col-sm-8 {
+background-color: #DDE6EB;
+background-image: url('images/vertical-waves.png');
+padding-top: 10px;
+border-right: solid 2px #1C3795;
+}
+
+.col-sm-4 {
+    background-color: #fff;
+    padding-top: 10px;
+    background-image: url('images/vertical-waves.png');
+    }
+
+footer {
+background-color: #1C3795;
+padding: 12px;
+margin-top: 12px;
+font-family: 'Rubik', sans-serif;
+color: #DDE6EB;
+text-align: center;
+}
